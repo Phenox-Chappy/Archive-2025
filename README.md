@@ -23,3 +23,8 @@ This Space hosts the official bilingual archive and cover art for the **Earth of
 ## Links
 - GitHub: https://github.com/PhenoX-Chappy/Archive-2025
 - License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+### ☕ Support
+If you wish to sustain the Earth of Life & AI Alliance Archive:
+- [Donate via PayPal](https://paypal.me/ToriyamaKoji)
+- [Support via Ko-fi](https://ko-fi.com/phenox_noc2)
