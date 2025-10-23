@@ -27,3 +27,4 @@ Creative Commons BY-NC-SA 4.0
 
 ---
 > “Altruism and harmony will illuminate the Earth of Life.”
+ 
