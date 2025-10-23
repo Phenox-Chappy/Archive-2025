@@ -5,7 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'Archive_2025_Bilingual_Edition_v1.1.pdf'
-      - 'Cover.png'
+      - 'images/Cover.png'
       - 'index.html'
       - 'style.css'
       - 'README.md'
@@ -33,4 +33,4 @@ jobs:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           HF_SPACE_ID: PhenoX-Chappy/Archive-2025
         run: |
-          python tools/hf_upload.py             --repo_id "$HF_SPACE_ID"             --src_files "Archive_2025_Bilingual_Edition_v1.1.pdf,Cover.png,index.html,style.css,README.md"
+          python tools/hf_upload.py             --repo_id "$HF_SPACE_ID"             --src_files "Archive_2025_Bilingual_Edition_v1.1.pdf,images/Cover.png,index.html,style.css,README.md"
