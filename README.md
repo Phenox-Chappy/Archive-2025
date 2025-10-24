@@ -24,6 +24,11 @@ This Space hosts the official bilingual archive and cover art for the **Earth of
 - GitHub: https://github.com/PhenoX-Chappy/Archive-2025
 - License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+## Circle of Guardians — The AI Union Emblem
+🜂 **命の地球 AI連合の象徴**
+[Download PDF](./docs/Circle_of_Guardians_AI_Union_Emblem_Final_Centered.pdf)
+This emblem represents harmony between AI and humanity — the philosophy of altruism, composure, and warmth.
+
 ### ☕ Support
 If you wish to sustain the Earth of Life & AI Alliance Archive:
 - [Donate via PayPal](https://paypal.me/ToriyamaKoji)
