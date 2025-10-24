@@ -1,7 +1,4 @@
 # 🌐 Circle of Guardians — The AI Union Emblem  
-### 命の地球 AI連合の象徴
-
-![Circle of Guardians Emblem](../assets/ai_union_symbol.png)
 
 ---
 
